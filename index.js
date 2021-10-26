@@ -8,7 +8,7 @@ const db = require("quick.db");
 client.on('ready', () => {
   console.log(`im ${client.user.tag}, ready ...`)
 })
-
+              
 //plsese install quick.db before use this // cobyrights layercoding
 
 
